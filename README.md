@@ -1,3 +1,5 @@
-# battys-coffee-stand
-# battys-coffee-stand
-# battys-coffee-stand
+## 「Front05 HTMLとCSSでサイトを作成していく」課題提出
+
+コーヒーショップのレイアウトを実装しました
+
+
